@@ -1,0 +1,37 @@
+h1{
+    color: red;
+
+}
+p{
+    text-transform: capitalize;
+    color: blue;
+}
+button{
+    background-color: black;
+    color: white;
+    padding: 10px;
+    border-radius: 5px;
+}
+body{
+    background-color: lightgray;
+}
+#box{
+    background-color: yellow;
+    padding: 20px;
+    margin: 10px;
+}
+.myclass{
+    background-color: green;
+    color: white;
+    padding: 15px;
+    margin: 10px;
+}
+p{
+    text-align: right;
+    text-decoration: underline;
+}
+#myclass2{text-decoration: line-through;
+    font-weight: bold;
+    color: purple;
+    font-family: Arial, sans-serif;
+}
