@@ -9,6 +9,6 @@ College-Lovely Professional University
 <br>
 12th june 2026-learnt whole git and github, commands of github.
 <br>
-13th june 2026- CSS revision started brushing up all the basics of css.
+13th june 2026- CSS revision started brushing up all the basics of css.attended 7 hrs lecture to again through css from basics to detail.
 <br>
 14th june 2026- 
