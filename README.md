@@ -5,4 +5,10 @@ Author-Jasica Aggarwal
 <br>
 College-Lovely Professional University
 <br>
+11th june 2026- Started to learn how to use git and github 
+<br>
+12th june 2026-learnt whole git and github, commands of github.
+<br>
 13th june 2026- CSS revision started brushing up all the basics of css.
+<br>
+14th june 2026- 
