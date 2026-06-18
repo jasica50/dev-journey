@@ -1,3 +1,4 @@
+#practice python basics
 #variables and data types
 name="Jasica Aggarwal"
 age=19
@@ -25,3 +26,22 @@ elif marks>=80:
 elif marks>=70:
     print("Grade: C")
 else:    print("Grade: F")
+
+#operators
+a=10
+b=5
+print("Addition:",a+b)
+print("Subtraction:",a-b)
+print("Multiplication:",a*b)
+print("Division:",a/b) #returns a float
+print("Modulus:",a%b) #returns the remainder
+print("Exponentiation:",a**b)   #returns a raised to the power of b
+print("Floor Division:",a//b) #returns the quotient without the remainder
+
+#comparion operators
+x=10
+y=20
+print("x > y:",x>y) #return true or false
+print("x < y:",x<y)
+print("x == y:",x==y)
+print("x != y:",x!=y)
