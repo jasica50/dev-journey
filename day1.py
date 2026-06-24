@@ -45,3 +45,14 @@ print("x > y:",x>y) #return true or false
 print("x < y:",x<y)
 print("x == y:",x==y)
 print("x != y:",x!=y)
+
+#logical operators
+p=True
+q=False
+print("p and q:",p and q) #returns true if both are true
+print("p or q:",p or q) #returns true if either is true
+print("not p:",not p) #returns true if p is false
+print("not q:",not q) #returns true if q is false
+
+#loops
+#for loop
