@@ -12,3 +12,5 @@ College-Lovely Professional University
 13th june 2026- CSS revision started brushing up all the basics of css.attended 7 hrs lecture to again through css from basics to detail.
 <br>
 Working continuously on github
+<br>
+studying python 
