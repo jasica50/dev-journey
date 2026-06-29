@@ -30,6 +30,12 @@ def greet(name):
 print(greet("Alice"))
 print(greet("Bob"))
 
+# function with  parameters
+def add(a, b):
+    print("Sum =", a + b)
+
+add(10, 20)
+
 #recursion
 def factorial(n):
     if n==0 or n==1:
