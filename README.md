@@ -15,3 +15,4 @@ Working continuously on github
 <br>
 studying python 
 learnt upto Recursion will start tomorrow with other topic
+my vs code is not working something error in pushing the code but i did practise and so i will commit and push tmr for both days.
