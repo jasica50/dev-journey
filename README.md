@@ -36,3 +36,4 @@ result = gcd(num1, num2)
 
 # Displaying the result
 print("The GCD of", num1, "and", num2, "is", result)
+started to work on next topics of python
